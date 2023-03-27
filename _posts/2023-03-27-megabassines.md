@@ -4,6 +4,7 @@ author: Moi
 date: 2023-03-27
 category: Environnement
 layout: post
+tags: [environnement, écologie, bassine, mégabassine, st-soline, irrigation, eau]
 ---
 
 ## [La Tribune](https://www.latribune.fr/entreprises-finance/industrie/energie-environnement/retenues-d-eau-pour-l-agriculture-les-bassines-de-la-colere-en-6-questions-938148.html)
