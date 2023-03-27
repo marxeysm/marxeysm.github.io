@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://static01.nyt.com/images/2006/08/07/us/07bookchin.190.gif?quality=75&auto=webp&disable=upscale
 
 # boolean type, the global switch for TOC in posts.
 toc: true

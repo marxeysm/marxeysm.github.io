@@ -3,6 +3,7 @@ title: Tatouages
 author: Moi
 date: 2023-03-24
 category: Memo
+pinned: true
 layout: post
 ---
 
