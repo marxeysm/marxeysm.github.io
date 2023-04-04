@@ -4,7 +4,7 @@ author: Moi
 date: 2023-04-04
 layout: post
 category: [Société, Gouvernement français]
-tags : [france, société, saint-soline, mouvement, populaire, 2023, gouvernement]
+tags : [france, société, saint-soline, mouvement, populaire, '2023', gouvernement]
 ---
 
 ## Sainte-Soline
