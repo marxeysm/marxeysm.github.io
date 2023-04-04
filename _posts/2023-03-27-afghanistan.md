@@ -1,9 +1,9 @@
 ---
-title: Guerre Afghane
+title: Afghanistan
 author: Moi
 date: 2023-03-27
 category: [Histoire, Moyen-Orient]
-tags: [histoire, moyen-orient, afghanistan, exil, immigration, islam, talibans]
+tags: [histoire, moyen-orient, afghanistan, exil, immigration, islam, talibans, soviétique, patchoune]
 layout: post
 ---
 
