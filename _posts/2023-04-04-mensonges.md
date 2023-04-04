@@ -22,6 +22,8 @@ tags : [france, société, saint-soline, mouvement, populaire, '2023', gouvernem
 
 ---
 
+#### Sources
+
 [^omissionGM2L]: <https://www.interieur.gouv.fr/sites/minint/files/medias/documents/2023-03/Premier%20bilan%20des%20ope%CC%81rations%20d%E2%80%99ordre%20public%20de%20la%20Gendarmerie%20nationale.pdf>
 [^avouGM2L]: <https://www.radiofrance.fr/franceinter/l-emploi-des-quads-a-destabilise-l-adversaire-le-retour-des-gendarmes-sur-les-violences-de-sainte-soline-2987886>
 [^interdictionSAMU]: <https://www.lemonde.fr/planete/article/2023/03/28/sainte-soline-l-enregistrement-qui-prouve-que-le-samu-n-a-pas-eu-le-droit-d-intervenir_6167340_3244.html>
