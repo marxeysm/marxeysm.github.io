@@ -22,9 +22,15 @@ tags: [environnement, écologie, bassine, mégabassine, st-soline, irrigation, e
 - Les ingénieurs du rapport disent eux-mêmes (dans un communiqué de presse) que le rapport n'est pas une étude approfondie, ni que c'est une étude d'impact de toutes les conséquences possibles des bassines. Pas de peer review non plus [^communiquedepresseBRGM]
 - Le créateur du modèle Jurassique (utilisé dans le rapport du BRGM) a lui-même déclaré AU BRGM que son modèle ne devrait pas être utilisé pour des petites surfaces/des bassines telles que celle des Deux-Sèvres [^modeleJurassique]
 - Les chiffres d'augmentation du débit du courant Mignon par exemple paraissent gros (40%) mais c'est 40% sur un tout petit volume donc en réalité ce n'est pas une nette amélioration (problème de perspective) [^contreetude]
+- Pas d'évaluation des effets d'évaporation
+- Pas d'évaluation des indicateurs de remplissage de la bassine et des valeurs de pompage
+- Etat de référence fixé par la Coop 79
+- Pas de prise en compte du changement climatique
+- Décennie de référence utilisée pour caler le modèle est 2000-2011, ce qui ne permet pas de prendre en compte les conditions météorologiques récentes et encore moins futures (cf communiqué de presse BRGM)
 
-### Accords Coop de l'eau 79/Agriculteurs
+### Coop de l'eau 79/Agriculteurs
 
+- Bassines ne vont servir que pour 25% des exploitations agricoles, mais sont financées à 70% par l'argent public [^25pourcent]
 - Non-respect des pré-requis pour construction des bassines, notamment non-utilisation des pesticides [^prerequis]
 
 ### Bassines
@@ -48,6 +54,7 @@ tags: [environnement, écologie, bassine, mégabassine, st-soline, irrigation, e
 [^communiquedepresseBRGM]: https://www.brgm.fr/fr/actualite/communique-presse/expertise-brgm-projet-reserves-substitution-deux-sevres-note
 [^modeleJurassique]: https://infoterre.brgm.fr/rapports/RP-64816-FR.pdf
 [^contreetude]: https://reporterre.net/IMG/pdf/me_gabassines-dossier_contre-e_tude_30_janvier_2023.pdf
+[^25%]: https://marais-poitevin.org/wp-content/uploads/2020/09/18-12-1820Protocole20avec20signatures20AccordbassinSevreniortaiseMignon.pdf
 [^prerequis]: https://www.ladepeche.fr/2023/03/05/les-bassines-pour-lirrigation-accaparement-de-leau-ou-accelerateur-de-transition-11039218.php
 [^ZRE]: https://www.lesagencesdeleau.fr/ressources/les-zones-de-repartition-des-eaux-zre
 [^rapportBRGM]: http://infoterre.brgm.fr/rapports/RC-71650-FR.pdf
