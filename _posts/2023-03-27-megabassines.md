@@ -59,20 +59,20 @@ tags: [environnement, écologie, bassine, mégabassine, st-soline, irrigation, e
 
 #### Sources
 
-[^communiquedepresseBRGM]: https://www.brgm.fr/fr/actualite/communique-presse/expertise-brgm-projet-reserves-substitution-deux-sevres-note
-[^modeleJurassique]: https://infoterre.brgm.fr/rapports/RP-64816-FR.pdf
-[^contreetude]: https://reporterre.net/IMG/pdf/me_gabassines-dossier_contre-e_tude_30_janvier_2023.pdf
-[^25%]: https://marais-poitevin.org/wp-content/uploads/2020/09/18-12-1820Protocole20avec20signatures20AccordbassinSevreniortaiseMignon.pdf
-[^prerequis]: https://www.ladepeche.fr/2023/03/05/les-bassines-pour-lirrigation-accaparement-de-leau-ou-accelerateur-de-transition-11039218.php
-[^avou]: https://www.lanouvellerepublique.fr/niort/deux-sevres-pourquoi-la-coordination-continue-de-parier-sur-les-bassines
-[^absenceDSNE]: https://www.lanouvellerepublique.fr/deux-sevres/environnement/reserves-d-eau/bassines-deux-sevres-nature-environnement-quitte-le-protocole-d-accord
-[^demissionDSNE]: https://niort.maville.com/actu/actudet_-le-president-de-deux-sevres-nature-environnement-va-passer-la-main-_53158-4886732_actu.Htm
-[^désengagementCCRET]: https://www.ouest-france.fr/nouvelle-aquitaine/mauze-sur-le-mignon-79210/deux-sevres-bassines-le-collectif-de-citoyens-ne-soutiendra-plus-le-protocole-3219b8b4-6d64-11ec-86c3-b2936e165329
-[^irrigationCIVE]: https://www.lanouvellerepublique.fr/deux-sevres/environnement/reserves-d-eau/deux-sevres-le-ccret-collectif-citoyen-vote-un-ultimatum-sur-le-projet-des-bassines
-[^jean-pierre]: https://www.facebook.com/permalink.php?story_fbid=5195898987095939&id=139892572696631&reply_comment_id=5196126233739881
-[^ZRE]: https://www.lesagencesdeleau.fr/ressources/les-zones-de-repartition-des-eaux-zre
-[^rapportBRGM]: http://infoterre.brgm.fr/rapports/RC-71650-FR.pdf
-[^critiquesubstitution]: https://t.co/Su0x1N84xE
-[^impactdessecheresses]: https://theconversation.com/barrages-et-reservoirs-leurs-effets-pervers-en-cas-de-secheresses-longues-111583
-[^impactsursecheresse]: https://www.sciencedirect.com/science/article/pii/S2214581817300368
-[^legislation]: https://twitter.com/DoGui3891/status/1587066885346041856
+[^communiquedepresseBRGM]: <https://www.brgm.fr/fr/actualite/communique-presse/expertise-brgm-projet-reserves-substitution-deux-sevres-note>
+[^modeleJurassique]: <https://infoterre.brgm.fr/rapports/RP-64816-FR.pdf>
+[^contreetude]: <https://reporterre.net/IMG/pdf/me_gabassines-dossier_contre-e_tude_30_janvier_2023.pdf>
+[^25%]: <https://marais-poitevin.org/wp-content/uploads/2020/09/18-12-1820Protocole20avec20signatures20AccordbassinSevreniortaiseMignon.pdf>
+[^prerequis]: <https://www.ladepeche.fr/2023/03/05/les-bassines-pour-lirrigation-accaparement-de-leau-ou-accelerateur-de-transition-11039218.php>
+[^avou]: <https://www.lanouvellerepublique.fr/niort/deux-sevres-pourquoi-la-coordination-continue-de-parier-sur-les-bassines>
+[^absenceDSNE]: <https://www.lanouvellerepublique.fr/deux-sevres/environnement/reserves-d-eau/bassines-deux-sevres-nature-environnement-quitte-le-protocole-d-accord>
+[^demissionDSNE]: <https://niort.maville.com/actu/actudet_-le-president-de-deux-sevres-nature-environnement-va-passer-la-main-_53158-4886732_actu.Htm>
+[^désengagementCCRET]: <https://www.ouest-france.fr/nouvelle-aquitaine/mauze-sur-le-mignon-79210/deux-sevres-bassines-le-collectif-de-citoyens-ne-soutiendra-plus-le-protocole-3219b8b4-6d64-11ec-86c3-b2936e165329>
+[^irrigationCIVE]: <https://www.lanouvellerepublique.fr/deux-sevres/environnement/reserves-d-eau/deux-sevres-le-ccret-collectif-citoyen-vote-un-ultimatum-sur-le-projet-des-bassines>
+[^jean-pierre]: <https://www.facebook.com/permalink.php?story_fbid=5195898987095939&id=139892572696631&reply_comment_id=5196126233739881>
+[^ZRE]: <https://www.lesagencesdeleau.fr/ressources/les-zones-de-repartition-des-eaux-zre>
+[^rapportBRGM]: <http://infoterre.brgm.fr/rapports/RC-71650-FR.pdf>
+[^critiquesubstitution]: <https://t.co/Su0x1N84xE>
+[^impactdessecheresses]: <https://theconversation.com/barrages-et-reservoirs-leurs-effets-pervers-en-cas-de-secheresses-longues-111583>
+[^impactsursecheresse]: <https://www.sciencedirect.com/science/article/pii/S2214581817300368>
+[^legislation]: <https://twitter.com/DoGui3891/status/1587066885346041856>
