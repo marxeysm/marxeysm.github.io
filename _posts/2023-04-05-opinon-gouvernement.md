@@ -1,5 +1,5 @@
 ---
-titre: Critique(s) du gouvernement français
+title: Critique(s) du gouvernement français
 author: Moi
 date: 2023-04-05
 layout: post
