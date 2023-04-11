@@ -7,6 +7,8 @@ tags: [histoire, moyen-orient, afghanistan, exil, immigration, islam, talibans, 
 layout: post
 ---
 
+# [By SowetoNecklace](https://www.reddit.com/user/SowetoNecklace/submitted/)
+
 ## Qu'est-ce que l'Afghanistan ?
 
 Sans remonter sur toute l’histoire de l’Afghanistan, les frontières modernes du pays ont été fixées lors de la convention anglo-russe de 1907 entre la Grande-Bretagne et la Russie. Elle était censée mettre un terme au « Grand Jeu », le combat d’influence et de conquête se déroulant entre les deux pouvoirs en Asie centrale. Lors de cette convention, la Perse (futur Iran, donc) a été découpée en deux sphères d’influence, les intérêts russes primant dans le nord et les intérêts anglais dans le sud, et le territoire afghan étant délimité dans ses frontières modernes et reconnu comme zone d’influence britannique. Bien sûr, ni le shah de Perse ni l’émir d’Afghanistan n’ont eu leur mot à dire sur le sujet, ils n’étaient pas invités à la convention.
