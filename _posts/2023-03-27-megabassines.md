@@ -52,6 +52,7 @@ tags: [environnement, écologie, bassine, mégabassine, st-soline, irrigation, e
 - Impacts forts sur l'environnement, notamment en période de sécheresse prolongée [^impactdessecheresses]
 - Les sécheresses sont augmentées sur les bassins avec le plus de dispositifs de retenu d'eau (étude en Espagne) [^impactsursecheresse]
 - Réponse curative, verrouille des pratiques inadaptées au changement climatique (culture intensive de maïs par exemple) = on traîte les symptomes au lieu de s'attaquer à l'origine du problème
+- Accaparement des ressources en eau, dégradation de l'environnement, de la biodiversité et un risque pour la santé humaine : le CESE préconise de ne pas utiliser de fonds publics pour financer les mégabassines [^aviscese]
 
 #### Critiques législatives des bassines [^legislation]
 
@@ -76,3 +77,4 @@ tags: [environnement, écologie, bassine, mégabassine, st-soline, irrigation, e
 [^impactdessecheresses]: <https://theconversation.com/barrages-et-reservoirs-leurs-effets-pervers-en-cas-de-secheresses-longues-111583>
 [^impactsursecheresse]: <https://www.sciencedirect.com/science/article/pii/S2214581817300368>
 [^legislation]: <https://twitter.com/DoGui3891/status/1587066885346041856>
+[^aviscese]: <https://www.lecese.fr/sites/default/files/pdf/Avis/2023/2023_08_gestion_eau.pdf> Page 7, préconisation 2
