@@ -63,7 +63,7 @@ tags: [environnement, écologie, bassine, mégabassine, st-soline, irrigation, e
 [^communiquedepresseBRGM]: <https://www.brgm.fr/fr/actualite/communique-presse/expertise-brgm-projet-reserves-substitution-deux-sevres-note>
 [^modeleJurassique]: <https://infoterre.brgm.fr/rapports/RP-64816-FR.pdf>
 [^contreetude]: <https://reporterre.net/IMG/pdf/me_gabassines-dossier_contre-e_tude_30_janvier_2023.pdf>
-[^25%]: <https://marais-poitevin.org/wp-content/uploads/2020/09/18-12-1820Protocole20avec20signatures20AccordbassinSevreniortaiseMignon.pdf>
+[^25pourcent]: <https://marais-poitevin.org/wp-content/uploads/2020/09/18-12-1820Protocole20avec20signatures20AccordbassinSevreniortaiseMignon.pdf>
 [^prerequis]: <https://www.ladepeche.fr/2023/03/05/les-bassines-pour-lirrigation-accaparement-de-leau-ou-accelerateur-de-transition-11039218.php>
 [^avou]: <https://www.lanouvellerepublique.fr/niort/deux-sevres-pourquoi-la-coordination-continue-de-parier-sur-les-bassines>
 [^absenceDSNE]: <https://www.lanouvellerepublique.fr/deux-sevres/environnement/reserves-d-eau/bassines-deux-sevres-nature-environnement-quitte-le-protocole-d-accord>
